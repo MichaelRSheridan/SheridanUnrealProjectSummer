@@ -1,0 +1,763 @@
+﻿Log file open, 06/29/18 11:52:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1996055734) SRandInit(-1996055734).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.808026
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.975s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-ISE73MF (192.168.1.68:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.29-17.52.09:951][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.29-17.52.09:951][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.29-17.52.10:071][  0]LogInit: Computer: DESKTOP-ISE73MF
+[2018.06.29-17.52.10:071][  0]LogInit: User: AAm
+[2018.06.29-17.52.10:071][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.29-17.52.10:071][  0]LogInit: High frequency timer resolution =2.531251 MHz
+[2018.06.29-17.52.10:072][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.29-17.52.10:072][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.29-17.52.10:072][  0]LogMemory: Process Physical Memory: 274.40 MB used, 274.40 MB peak
+[2018.06.29-17.52.10:072][  0]LogMemory: Process Virtual Memory: 264.73 MB used, 264.73 MB peak
+[2018.06.29-17.52.10:072][  0]LogMemory: Physical Memory: 6073.30 MB used,  10246.50 MB free, 16319.79 MB total
+[2018.06.29-17.52.10:072][  0]LogMemory: Virtual Memory: 4794.15 MB used,  10246.50 MB free, 134217728.00 MB total
+[2018.06.29-17.52.10:969][  0]LogInit: Using OS detected language (en-US).
+[2018.06.29-17.52.10:969][  0]LogInit: Using OS detected locale (en-CA).
+[2018.06.29-17.52.11:181][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.29-17.52.12:163][  0]LogStreaming: Display: Took  1.182s to EndInitTextLocalization.
+[2018.06.29-17.52.12:191][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.29-17.52.12:911][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.29-17.52.12:911][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.29-17.52.14:494][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.29-17.52.14:645][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.06.29-17.52.14:645][  0]LogD3D11RHI:       6052/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.29-17.52.14:648][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.29-17.52.14:648][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.29-17.52.14:648][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.29-17.52.14:668][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.29-17.52.14:669][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.29-17.52.14:669][  0]LogWindows: EnumDisplayDevices:
+[2018.06.29-17.52.14:669][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.06.29-17.52.14:669][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.06.29-17.52.14:670][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.06.29-17.52.14:670][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.06.29-17.52.14:670][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.29-17.52.14:670][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.06.29-17.52.14:670][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.29-17.52.14:670][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.29-17.52.14:671][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.06.29-17.52.14:730][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.29-17.52.14:730][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.29-17.52.14:730][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.29-17.52.14:980][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.29-17.52.15:102][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Intermediate/Shaders/WorkingDirectory/49472/).
+[2018.06.29-17.52.15:118][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/A_A_m/AppData/Local/Temp/UnrealShaderWorkingDir/85BFCB8546F0B379510C438A3CB7FE2F/'.
+[2018.06.29-17.52.16:248][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.29-17.52.16:301][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.29-17.52.16:342][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.29-17.52.16:363][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.29-17.52.16:415][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.29-17.52.16:443][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.29-17.52.16:465][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.29-17.52.16:501][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.29-17.52.16:523][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.29-17.52.16:564][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.29-17.52.16:601][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.29-17.52.16:642][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.29-17.52.16:695][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.29-17.52.16:745][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.29-17.52.16:774][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.29-17.52.16:848][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.29-17.52.16:849][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.29-17.52.16:898][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.29-17.52.16:912][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.29-17.52.17:101][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.29-17.52.17:162][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.29-17.52.17:216][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.29-17.52.17:252][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.29-17.52.17:298][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.29-17.52.17:338][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.29-17.52.17:338][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.29-17.52.18:200][  0]LogXGEController: Cleaning working directory: C:/Users/A_A_m/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.29-17.52.18:201][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.29-17.52.18:219][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.29-17.52.18:219][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.29-17.52.21:500][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.29-17.52.22:194][  0]LogDerivedDataCache: Loaded boot cache 0.69s 74MB C:/Users/A_A_m/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.29-17.52.22:195][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/A_A_m/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.29-17.52.22:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.29-17.52.22:195][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.29-17.52.22:195][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.29-17.52.22:195][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.29-17.52.22:336][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.29-17.52.22:353][  0]LogDerivedDataCache: Using Local data cache path C:/Users/A_A_m/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.29-17.52.22:353][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.29-17.52.22:353][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.29-17.52.22:426][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.29-17.52.22:482][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.29-17.52.22:584][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.29-17.52.22:584][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.29-17.52.27:619][  0]LogAssetRegistry: FAssetRegistry took 0.0432 seconds to start up
+[2018.06.29-17.52.30:823][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.29-17.52.32:329][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.29-17.52.32:374][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.29-17.52.32:375][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.29-17.52.32:375][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.29-17.52.32:375][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.29-17.52.32:375][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.29-17.52.32:858][  0]LogNetVersion: MyProject2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 607132587)
+[2018.06.29-17.52.37:966][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.196003 seconds
+[2018.06.29-17.52.37:984][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.29-17.52.37:984][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.29-17.52.37:984][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.29-17.53.08:659][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.29-17.53.08:735][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.29-17.53.10:016][  0]SourceControl: Source control is disabled
+[2018.06.29-17.53.12:497][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.29-17.53.12:780][  0]LogOcInput: OculusInput pre-init called
+[2018.06.29-17.53.13:467][  0]LogEngine: Initializing Engine...
+[2018.06.29-17.53.13:489][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.29-17.53.13:514][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.29-17.53.13:515][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.29-17.53.14:920][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.29-17.53.15:101][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.29-17.53.15:172][  0]LogInit: FAudioDevice initialized.
+[2018.06.29-17.53.15:262][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/A_A_m/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.29-17.53.15:285][  0]LogInit: Texture streaming: Enabled
+[2018.06.29-17.53.15:428][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.29-17.53.15:599][  0]LogInit: Transaction tracking system initialized
+[2018.06.29-17.53.16:013][  0]BlueprintLog: New page: Editor Load
+[2018.06.29-17.53.17:128][  0]LocalizationService: Localization service is disabled
+[2018.06.29-17.53.17:616][  0]LogLinker: Warning: Can't find file '/Game/DENT/CreateDestructibleMesh'
+[2018.06.29-17.53.17:630][  0]LogLinker: Warning: Can't find file '/Game/DENT/CreateDestructibleMesh'
+[2018.06.29-17.53.17:630][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/DENT/CreateDestructibleMesh.CreateDestructibleMesh_C'
+[2018.06.29-17.53.17:630][  0]LogLinker: Warning: Can't find file '/Game/DENT/AddDestructibleMeshToDENT'
+[2018.06.29-17.53.17:631][  0]LogLinker: Warning: Can't find file '/Game/DENT/AddDestructibleMeshToDENT'
+[2018.06.29-17.53.17:631][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/DENT/AddDestructibleMeshToDENT.AddDestructibleMeshToDENT_C'
+[2018.06.29-17.53.17:932][  0]LogConsoleResponse: Display: 
+[2018.06.29-17.53.20:379][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.29-17.53.20:379][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.29-17.53.20:379][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.29-17.53.20:379][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.29-17.53.20:379][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.29-17.53.21:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/' took 0.05s
+[2018.06.29-17.53.22:985][  0]Cmd: MAP LOAD FILE="C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.29-17.53.23:007][  0]LightingResults: New page: Lighting Build
+[2018.06.29-17.53.23:128][  0]MapCheck: New page: Map Check
+[2018.06.29-17.53.23:128][  0]LightingResults: New page: Lighting Build
+[2018.06.29-17.53.24:241][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86b40a10, Size=12, Default__Enemy_C Function /Game/ThirdPersonBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.06.29-17.53.24:267][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea86b40a10, Size=12
+[2018.06.29-17.53.24:267][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86b40a10, Size=12, Default__Enemy_C Function /Engine/Transient.REINST_Enemy_C_5:ExecuteUbergraph_Enemy
+[2018.06.29-17.53.24:271][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86b41160, Size=12, Default__Enemy_C Function /Game/ThirdPersonBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.06.29-17.53.25:025][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.29-17.53.25:604][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.29-17.53.25:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea86b40a10, Size=12
+[2018.06.29-17.53.25:748][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.29-17.53.25:856][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106.902ms to complete.
+[2018.06.29-17.53.25:856][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.885
+[2018.06.29-17.53.27:439][  0]LogCollectionManager: Loaded 0 collections in 0.001754 seconds
+[2018.06.29-17.53.27:572][  0]LogFileCache: Scanning file cache for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Collections/' took 0.01s
+[2018.06.29-17.53.27:572][  0]LogFileCache: Scanning file cache for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/Developers/AAm/Collections/' took 0.01s
+[2018.06.29-17.53.27:572][  0]LogFileCache: Scanning file cache for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/Collections/' took 0.00s
+[2018.06.29-17.53.27:572][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.29-17.53.27:602][  0]LogContentBrowser: Native class hierarchy populated in 0.0275 seconds. Added 2452 classes and 558 folders.
+[2018.06.29-17.53.27:690][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.29-17.53.28:910][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.06.29-17.53.28:974][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.06.29-17.53.29:540][  0]LogSlate: Took 0.019181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.29-17.53.29:576][  0]LogSlate: Took 0.030686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.29-17.53.29:660][  0]LogSlate: Took 0.022873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.29-17.53.30:185][  0]LogRenderer: Reallocating scene render targets to support 1192x628 Format 10 NumSamples 1 (Frame:1).
+[2018.06.29-17.53.30:873][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.06.29-17.53.30:873][  0]LogLoad: (Engine Initialization) Total time: 102.46 seconds
+[2018.06.29-17.53.30:873][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.29-17.53.31:066][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.29-17.53.31:295][  0]LogSlate: Took 0.013506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.29-17.53.31:549][  3]LogAssetRegistry: Asset discovery search completed in 63.9541 seconds
+[2018.06.29-17.53.31:551][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.29-17.53.31:551][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.06.29-17.53.36:326][288]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/' took 5.40s
+[2018.06.29-17.56.17:047][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.29-17.56.20:206][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eaa76e6680, Size=376, Default__Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-17.56.20:220][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86843400, Size=248, Default__GreatSword_C Function /Game/ThirdPersonBP/Blueprints/GreatSword.GreatSword_C:ExecuteUbergraph_GreatSword
+[2018.06.29-17.56.20:243][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab76bac00, Size=120, Default__AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-17.56.20:260][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab49bd328, Size=40, Default__PauseMenu_C Function /Game/AdrianaStuff/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu
+[2018.06.29-17.56.20:261][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab49a6340, Size=16, Default__InevntoryMenu_C Function /Game/AdrianaStuff/UI/InevntoryMenu.InevntoryMenu_C:ExecuteUbergraph_InevntoryMenu
+[2018.06.29-17.56.20:271][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab49a6080, Size=16, Default__AudioMenu_C Function /Game/AdrianaStuff/UI/AudioMenu.AudioMenu_C:ExecuteUbergraph_AudioMenu
+[2018.06.29-17.56.20:272][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86825d80, Size=32, Default__OptionsMenu_C Function /Game/AdrianaStuff/UI/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.06.29-17.56.20:279][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab76a4d48, Size=24, Default__DisplayMenu_C Function /Game/AdrianaStuff/UI/DisplayMenu.DisplayMenu_C:ExecuteUbergraph_DisplayMenu
+[2018.06.29-17.56.20:742][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab76bac00, Size=120
+[2018.06.29-17.56.20:742][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86904880, Size=120, Default__AdrianaTwinBP_C Function /Engine/Transient.REINST_AdrianaTwinBP_C_0:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-17.56.20:744][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea86843400, Size=248
+[2018.06.29-17.56.20:744][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea868e9800, Size=248, Default__GreatSword_C Function /Engine/Transient.REINST_GreatSword_C_7:ExecuteUbergraph_GreatSword
+[2018.06.29-17.56.20:745][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab49a6080, Size=16
+[2018.06.29-17.56.20:745][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab7323500, Size=16, Default__AudioMenu_C Function /Engine/Transient.REINST_AudioMenu_C_0:ExecuteUbergraph_AudioMenu
+[2018.06.29-17.56.20:746][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eaa76e6680, Size=376
+[2018.06.29-17.56.20:747][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab72bb100, Size=376, Default__Character_Custom_Test_Adriana_C Function /Engine/Transient.REINST_Character_Custom_Test_Adriana_C_8:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-17.56.20:747][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab76a4d48, Size=24
+[2018.06.29-17.56.20:747][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86931b28, Size=24, Default__DisplayMenu_C Function /Engine/Transient.REINST_DisplayMenu_C_1:ExecuteUbergraph_DisplayMenu
+[2018.06.29-17.56.20:748][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab49a6340, Size=16
+[2018.06.29-17.56.20:748][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab7323460, Size=16, Default__InevntoryMenu_C Function /Engine/Transient.REINST_InevntoryMenu_C_3:ExecuteUbergraph_InevntoryMenu
+[2018.06.29-17.56.20:749][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea86825d80, Size=32
+[2018.06.29-17.56.20:749][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab72df1a0, Size=32, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_4:ExecuteUbergraph_OptionsMenu
+[2018.06.29-17.56.20:749][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab49bd328, Size=40
+[2018.06.29-17.56.20:749][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86a32548, Size=40, Default__PauseMenu_C Function /Engine/Transient.REINST_PauseMenu_C_5:ExecuteUbergraph_PauseMenu
+[2018.06.29-17.56.20:843][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab7152780, Size=120, Default__AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-17.56.20:847][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab70d7300, Size=248, Default__GreatSword_C Function /Game/ThirdPersonBP/Blueprints/GreatSword.GreatSword_C:ExecuteUbergraph_GreatSword
+[2018.06.29-17.56.20:849][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab71c1e30, Size=16, Default__AudioMenu_C Function /Game/AdrianaStuff/UI/AudioMenu.AudioMenu_C:ExecuteUbergraph_AudioMenu
+[2018.06.29-17.56.20:856][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab7104700, Size=376, Default__Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-17.56.20:860][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab71ca320, Size=24, Default__DisplayMenu_C Function /Game/AdrianaStuff/UI/DisplayMenu.DisplayMenu_C:ExecuteUbergraph_DisplayMenu
+[2018.06.29-17.56.20:863][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab71c19d0, Size=16, Default__InevntoryMenu_C Function /Game/AdrianaStuff/UI/InevntoryMenu.InevntoryMenu_C:ExecuteUbergraph_InevntoryMenu
+[2018.06.29-17.56.20:865][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab70b2860, Size=32, Default__OptionsMenu_C Function /Game/AdrianaStuff/UI/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.06.29-17.56.20:868][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea86a31440, Size=40, Default__PauseMenu_C Function /Game/AdrianaStuff/UI/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu
+[2018.06.29-17.56.21:195][  4]LogSkeletalMesh: Skeletal Mesh found in DDC [27.869223ms] /Game/TwinbladesAnimsetBase/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.29-17.56.21:464][  4]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.29-17.56.22:408][  4]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2018.06.29-17.56.23:047][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eabbe81ff0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.29-17.56.23:048][  4]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eabbe81fe8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.29-17.56.24:474][  4]LogBlueprintUserMessages: [DetectionBox_GEN_VARIABLE_GreatSword_C_CAT_1] Hello
+[2018.06.29-17.56.24:539][  4]LogSlate: Took 0.023198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.29-17.56.52:649][564]LogSlate: Took 0.027873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.29-17.57.03:194][151]LogAIModule: Creating AISystem for world AdrianaTestRoom
+[2018.06.29-17.57.03:261][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea86931b28, Size=24
+[2018.06.29-17.57.03:261][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab72df1a0, Size=32
+[2018.06.29-17.57.03:261][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab7323500, Size=16
+[2018.06.29-17.57.03:262][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab7323460, Size=16
+[2018.06.29-17.57.03:262][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea86a32548, Size=40
+[2018.06.29-17.57.03:262][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea86904880, Size=120
+[2018.06.29-17.57.03:262][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea868e9800, Size=248
+[2018.06.29-17.57.03:262][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab72bb100, Size=376
+[2018.06.29-17.57.03:324][151]Cmd: MAP LOAD FILE="C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/AdrianaStuff/Maps/AdrianaTestRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.29-17.57.03:325][151]LightingResults: New page: Lighting Build
+[2018.06.29-17.57.03:326][151]LoadErrors: New page: Loading map: AdrianaTestRoom.umap
+[2018.06.29-17.57.03:328][151]MapCheck: New page: Map Check
+[2018.06.29-17.57.03:328][151]LightingResults: New page: Lighting Build
+[2018.06.29-17.57.03:483][151]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.29-17.57.03:551][151]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.29-17.57.03:616][151]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.581ms to complete.
+[2018.06.29-17.57.03:616][151]LogFileHelpers: Loading map 'AdrianaTestRoom' took 0.324
+[2018.06.29-17.57.05:251][246]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.29-17.57.05:338][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.29-17.57.05:367][246]PIE: New page: PIE session: AdrianaTestRoom (Jun 29, 2018, 5:57:05 AM)
+[2018.06.29-17.57.05:367][246]LogPlayLevel: Creating play world package: /Game/AdrianaStuff/Maps/UEDPIE_0_AdrianaTestRoom
+[2018.06.29-17.57.05:390][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022602s)
+[2018.06.29-17.57.05:392][246]LogAIModule: Creating AISystem for world AdrianaTestRoom
+[2018.06.29-17.57.05:392][246]LogPlayLevel: PIE: World Init took: (0.001953s)
+[2018.06.29-17.57.05:392][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdrianaStuff/Maps/AdrianaTestRoom.AdrianaTestRoom to /Game/AdrianaStuff/Maps/UEDPIE_0_AdrianaTestRoom.AdrianaTestRoom (0.024939s)
+[2018.06.29-17.57.05:453][246]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.29-17.57.05:502][246]LogInit: FAudioDevice initialized.
+[2018.06.29-17.57.05:581][246]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eaf3918b80, Size=432, Default__TestCharBP_C Function /Game/ThirdPersonBP/Blueprints/TestCharBP.TestCharBP_C:ExecuteUbergraph_TestCharBP
+[2018.06.29-17.57.05:585][246]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eaa8cf9478, Size=56, Default__TestCharABP_C Function /Game/ThirdPersonBP/TestPlayerCharacter/TestCharABP.TestCharABP_C:ExecuteUbergraph_TestCharABP
+[2018.06.29-17.57.05:600][246]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/TestPlayerCharacter/Mdea_MAT2'
+[2018.06.29-17.57.05:600][246]LoadErrors: Failed to load /Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh.TestCharMesh Referenced by Default__TestCharBP_C
+[2018.06.29-17.57.05:600][246]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/TestPlayerCharacter/Mdea_MAT2' while loading C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/ThirdPersonBP/TestPlayerCharacter/TestCharMesh.uasset.
+[2018.06.29-17.57.05:600][246]LoadErrors: Error: /Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh : Can't find file for asset. /Game/ThirdPersonBP/TestPlayerCharacter/Mdea_MAT2
+[2018.06.29-17.57.05:600][246]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/TestPlayerCharacter/Mdea_MAT2'
+[2018.06.29-17.57.05:601][246]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/TestPlayerCharacter/Mdea_MAT2' while loading C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/ThirdPersonBP/TestPlayerCharacter/TestCharMesh.uasset.
+[2018.06.29-17.57.05:601][246]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh_PhysicsAsset'
+[2018.06.29-17.57.05:601][246]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh_PhysicsAsset' while loading C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/ThirdPersonBP/TestPlayerCharacter/TestCharMesh.uasset.
+[2018.06.29-17.57.05:601][246]LoadErrors: Error: /Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh : Can't find file for asset. /Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh_PhysicsAsset
+[2018.06.29-17.57.05:601][246]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh_PhysicsAsset'
+[2018.06.29-17.57.05:602][246]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh_PhysicsAsset' while loading C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/ThirdPersonBP/TestPlayerCharacter/TestCharMesh.uasset.
+[2018.06.29-17.57.05:656][246]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eaa8cf9478, Size=56
+[2018.06.29-17.57.05:656][246]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eaa8cf9478, Size=56, Default__TestCharABP_C Function /Engine/Transient.REINST_TestCharABP_C_1:ExecuteUbergraph_TestCharABP
+[2018.06.29-17.57.05:657][246]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eaf3918b80, Size=432
+[2018.06.29-17.57.05:657][246]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb036089c0, Size=432, Default__TestCharBP_C Function /Engine/Transient.REINST_TestCharBP_C_30:ExecuteUbergraph_TestCharBP
+[2018.06.29-17.57.05:674][246]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea8c9bd408, Size=56, Default__TestCharABP_C Function /Game/ThirdPersonBP/TestPlayerCharacter/TestCharABP.TestCharABP_C:ExecuteUbergraph_TestCharABP
+[2018.06.29-17.57.05:678][246]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eaf04742c0, Size=432, Default__TestCharBP_C Function /Game/ThirdPersonBP/Blueprints/TestCharBP.TestCharBP_C:ExecuteUbergraph_TestCharBP
+[2018.06.29-17.57.05:703][246]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh_PhysicsAsset'
+[2018.06.29-17.57.05:703][246]LoadErrors: Failed to load /Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh_PhysicsAsset.TestCharMesh_PhysicsAsset Referenced by TestCharMesh
+[2018.06.29-17.57.05:703][246]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh_PhysicsAsset' while loading NULL.
+[2018.06.29-17.57.05:704][246]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/TestPlayerCharacter/Mdea_MAT2'
+[2018.06.29-17.57.05:704][246]LoadErrors: Failed to load /Game/ThirdPersonBP/TestPlayerCharacter/Mdea_MAT2.Mdea_MAT2 Referenced by TestCharMesh
+[2018.06.29-17.57.05:704][246]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/TestPlayerCharacter/Mdea_MAT2' while loading NULL.
+[2018.06.29-17.57.05:816][246]LogSkeletalMesh: Skeletal Mesh found in DDC [13.589723ms] /Game/ThirdPersonBP/TestPlayerCharacter/TestCharMesh.TestCharMesh
+[2018.06.29-17.57.05:880][246]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.29-17.57.05:921][246]LogWorld: Bringing World /Game/AdrianaStuff/Maps/UEDPIE_0_AdrianaTestRoom.AdrianaTestRoom up for play (max tick rate 60) at 2018.06.29-11.57.05
+[2018.06.29-17.57.05:922][246]LogWorld: Bringing up level for play took: 0.021857
+[2018.06.29-17.57.05:981][246]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.06.29-17.57.06:031][246]PIE: Play in editor start time for /Game/AdrianaStuff/Maps/UEDPIE_0_AdrianaTestRoom 0.092
+[2018.06.29-17.57.11:348][533]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eaa8cf9478, Size=56
+[2018.06.29-17.57.11:348][533]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb036089c0, Size=432
+[2018.06.29-17.57.12:685][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.29-17.57.22:355][109]BlueprintLog: New page: Compile Character_Custom_Test_Adriana
+[2018.06.29-17.57.22:729][109]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab7104700, Size=376
+[2018.06.29-17.57.22:730][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab21e7880, Size=376, Default__Character_Custom_Test_Adriana_C Function /Engine/Transient.REINST_Character_Custom_Test_Adriana_C_39:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-17.57.22:751][109]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb13233280, Size=376, Default__Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-17.57.25:960][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.29-17.57.26:043][220]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.29-17.57.26:085][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.29-17.57.26:085][220]PIE: New page: PIE session: AdrianaTestRoom (Jun 29, 2018, 5:57:26 AM)
+[2018.06.29-17.57.26:085][220]LogPlayLevel: Creating play world package: /Game/AdrianaStuff/Maps/UEDPIE_0_AdrianaTestRoom
+[2018.06.29-17.57.26:088][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002658s)
+[2018.06.29-17.57.26:089][220]LogAIModule: Creating AISystem for world AdrianaTestRoom
+[2018.06.29-17.57.26:089][220]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2018.06.29-17.57.26:089][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdrianaStuff/Maps/AdrianaTestRoom.AdrianaTestRoom to /Game/AdrianaStuff/Maps/UEDPIE_0_AdrianaTestRoom.AdrianaTestRoom (0.003907s)
+[2018.06.29-17.57.26:115][220]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.29-17.57.26:146][220]LogInit: FAudioDevice initialized.
+[2018.06.29-17.57.26:181][220]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.06.29-17.57.26:183][220]LogWorld: Bringing World /Game/AdrianaStuff/Maps/UEDPIE_0_AdrianaTestRoom.AdrianaTestRoom up for play (max tick rate 60) at 2018.06.29-11.57.26
+[2018.06.29-17.57.26:183][220]LogWorld: Bringing up level for play took: 0.001342
+[2018.06.29-17.57.26:184][220]PIE: Play in editor start time for /Game/AdrianaStuff/Maps/UEDPIE_0_AdrianaTestRoom 0.246
+[2018.06.29-17.57.38:418][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.29-17.57.58:327][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.29-17.58.02:350][236]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.06.29-17.58.02:779][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-17.58.02:800][236]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.06.29-17.58.03:202][236]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.29-17.58.04:192][236]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.06.29-17.58.04:352][236]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.29-17.58.21:976][264]LogSlate: Took 0.326563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.06.29-18.01.39:683][592]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb066bcc18, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.01.42:919][770]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb066bcc18, Size=4
+[2018.06.29-18.01.42:919][770]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb273edd20, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_4:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.01.42:932][770]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb273ed180, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.01.49:778][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb273ed180, Size=4
+[2018.06.29-18.01.49:778][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb066be830, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_5:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.01.49:792][172]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb066bede8, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.01.54:347][420]BlueprintLog: New page: Compile AdrianaTwinBP
+[2018.06.29-18.01.54:371][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb066bede8, Size=4
+[2018.06.29-18.01.54:371][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb395b19f0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_6:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.01.54:394][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab7152780, Size=120
+[2018.06.29-18.01.54:394][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ea949ec880, Size=120, Default__AdrianaTwinBP_C Function /Engine/Transient.REINST_AdrianaTwinBP_C_7:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.01.54:410][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab729e080, Size=120, Default__AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.01.54:543][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb395b19f0, Size=4
+[2018.06.29-18.01.54:543][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb066be830, Size=4
+[2018.06.29-18.01.54:543][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb273edd20, Size=4
+[2018.06.29-18.04.20:223][647]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb2d00dd50, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.04.23:667][847]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb2d00dd50, Size=4
+[2018.06.29-18.04.23:667][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb066be338, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_9:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.04.23:680][847]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb066bfc30, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.04.28:727][124]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb066bfc30, Size=4
+[2018.06.29-18.04.28:727][124]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab41f82f8, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_10:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.04.28:740][124]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab41f82b0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.04.52:902][516]BlueprintLog: New page: Compile AdrianaTwinBP
+[2018.06.29-18.04.52:924][516]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab41f82b0, Size=4
+[2018.06.29-18.04.52:924][516]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab2d1c118, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_11:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.04.52:946][516]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab729e080, Size=120
+[2018.06.29-18.04.52:946][516]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb39f23100, Size=120, AdrianaTwinBP_C_13 Function /Engine/Transient.REINST_AdrianaTwinBP_C_12:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.04.52:962][516]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb3bdee880, Size=120, Default__AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.04.53:090][516]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab41f82f8, Size=4
+[2018.06.29-18.04.53:090][516]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ea949ec880, Size=120
+[2018.06.29-18.04.53:090][516]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb066be338, Size=4
+[2018.06.29-18.04.53:090][516]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab2d1c118, Size=4
+[2018.06.29-18.05.11:531][509]LogEditorTransaction: Undo Create Pin Link
+[2018.06.29-18.05.11:544][509]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb3ce2b748, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.11:683][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.11:848][517]LogEditorTransaction: Undo Move Node
+[2018.06.29-18.05.11:849][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb3ce2b748, Size=4
+[2018.06.29-18.05.11:849][517]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb395b2618, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_14:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.11:862][517]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb395b1f20, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.11:999][517]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.12:648][554]LogEditorTransaction: Undo Move Node
+[2018.06.29-18.05.12:649][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb395b1f20, Size=4
+[2018.06.29-18.05.12:649][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab2d1de38, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_15:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.12:661][554]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab2d1d600, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.12:799][554]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.13:239][580]LogEditorTransaction: Undo Create Pin Link
+[2018.06.29-18.05.13:240][580]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab2d1d600, Size=4
+[2018.06.29-18.05.13:240][580]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb3af2d0c0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_16:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.13:252][580]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb3af2e730, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.13:386][580]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.13:529][588]LogEditorTransaction: Undo Add Node
+[2018.06.29-18.05.13:530][588]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb3af2e730, Size=4
+[2018.06.29-18.05.13:530][588]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb384c56b8, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_17:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.13:542][588]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb384c7250, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.13:676][588]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.13:785][594]LogEditorTransaction: Undo Delete current selection
+[2018.06.29-18.05.13:786][594]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb384c7250, Size=4
+[2018.06.29-18.05.13:786][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb45ce0580, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_18:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.13:799][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb45ce0228, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.13:932][594]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.14:079][602]LogEditorTransaction: Undo Add Node
+[2018.06.29-18.05.14:080][602]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb45ce0228, Size=4
+[2018.06.29-18.05.14:080][602]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb48776320, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_19:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.14:092][602]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb48775fc8, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.14:234][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.14:309][606]LogEditorTransaction: Undo Remove Variable
+[2018.06.29-18.05.14:311][606]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb48775fc8, Size=4
+[2018.06.29-18.05.14:312][606]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb49554c98, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_20:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.14:324][606]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb49554940, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.14:459][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.14:552][611]LogEditorTransaction: Undo Rename Variable
+[2018.06.29-18.05.14:554][611]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb49554940, Size=4
+[2018.06.29-18.05.14:554][611]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb4ddff218, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_21:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.14:567][611]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb4ddfeec0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.14:711][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.14:870][620]LogEditorTransaction: Undo Add Variable
+[2018.06.29-18.05.14:872][620]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb4ddfeec0, Size=4
+[2018.06.29-18.05.14:872][620]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb4e770ec0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_22:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.14:885][620]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb4e770b68, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.15:023][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.15:449][645]LogEditorTransaction: Undo Move Node
+[2018.06.29-18.05.15:455][645]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb517fe398, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.SKEL_Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.05.15:624][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.15:968][652]LogEditorTransaction: Undo Delete current selection
+[2018.06.29-18.05.15:969][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb517fe398, Size=4
+[2018.06.29-18.05.15:969][652]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab7303550, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Engine/Transient.REINST_SKEL_Character_Custom_Test_Adriana_C_63:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.05.15:975][652]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab7303380, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.SKEL_Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.05.16:141][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.16:536][662]LogEditorTransaction: Undo Move Node
+[2018.06.29-18.05.16:537][662]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb4e770b68, Size=4
+[2018.06.29-18.05.16:537][662]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb570e7c18, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_23:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.16:550][662]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb570e78c0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.16:686][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.29-18.05.24:211][ 88]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb570e78c0, Size=4
+[2018.06.29-18.05.24:211][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab2d1e400, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_24:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.24:225][ 88]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab2d1e190, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.26:349][205]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab2d1e190, Size=4
+[2018.06.29-18.05.26:349][205]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb4dc51a48, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_25:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.26:362][205]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb4dc516f0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.05.56:148][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.06.29-18.05.56:204][842]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.06.29-18.05.56:804][842]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.29-18.06.14:470][799]LogSavePackage: Save=43.94ms
+[2018.06.29-18.06.14:470][799]LogSavePackage: Moving 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Twinblades_Attack031E3759CE4D71776E0455149C8148E269.tmp' to 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/TwinbladesAnimsetBase/RootMotion/Twinblades_Attack03.uasset'
+[2018.06.29-18.06.14:490][799]LogSavePackage: Display: Finished SavePackage C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/TwinbladesAnimsetBase/RootMotion/Twinblades_Attack03.uasset
+[2018.06.29-18.06.47:825][748]LogSavePackage: Save=15.07ms
+[2018.06.29-18.06.47:825][748]LogSavePackage: Moving 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Twinblades_Attack025A5630C24D7E1ECBD6911BAFA5634963.tmp' to 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/TwinbladesAnimsetBase/RootMotion/Twinblades_Attack02.uasset'
+[2018.06.29-18.06.47:829][748]LogSavePackage: Display: Finished SavePackage C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/TwinbladesAnimsetBase/RootMotion/Twinblades_Attack02.uasset
+[2018.06.29-18.06.57:234][266]LogSavePackage: Save=4.49ms
+[2018.06.29-18.06.57:234][266]LogSavePackage: Moving 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Twinblades_Attack03B055257D41941B68EF69E089FF2B5B51.tmp' to 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/TwinbladesAnimsetBase/RootMotion/Twinblades_Attack03.uasset'
+[2018.06.29-18.06.57:237][266]LogSavePackage: Display: Finished SavePackage C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/TwinbladesAnimsetBase/RootMotion/Twinblades_Attack03.uasset
+[2018.06.29-18.07.12:560][133]LogSavePackage: Save=14.72ms
+[2018.06.29-18.07.12:560][133]LogSavePackage: Moving 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Twinblades_Attack04C8EC48E449EF9303EC18A3A8CD13C05F.tmp' to 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/TwinbladesAnimsetBase/RootMotion/Twinblades_Attack04.uasset'
+[2018.06.29-18.07.12:563][133]LogSavePackage: Display: Finished SavePackage C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/TwinbladesAnimsetBase/RootMotion/Twinblades_Attack04.uasset
+[2018.06.29-18.07.48:921][207]BlueprintLog: New page: Compile AdrianaTwinBP
+[2018.06.29-18.07.48:946][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb4dc516f0, Size=4
+[2018.06.29-18.07.48:946][207]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb67550568, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_26:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.07.48:969][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb3bdee880, Size=120
+[2018.06.29-18.07.48:969][207]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb62619600, Size=120, Default__AdrianaTwinBP_C Function /Engine/Transient.REINST_AdrianaTwinBP_C_27:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.07.48:984][207]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb66a2d900, Size=120, Default__AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.07.49:135][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb3af2d0c0, Size=4
+[2018.06.29-18.07.49:136][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab2d1de38, Size=4
+[2018.06.29-18.07.49:136][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb395b2618, Size=4
+[2018.06.29-18.07.49:136][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb39f23100, Size=120
+[2018.06.29-18.07.49:136][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb384c56b8, Size=4
+[2018.06.29-18.07.49:136][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb45ce0580, Size=4
+[2018.06.29-18.07.49:136][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb48776320, Size=4
+[2018.06.29-18.07.49:136][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb49554c98, Size=4
+[2018.06.29-18.07.49:136][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb4ddff218, Size=4
+[2018.06.29-18.07.49:137][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb4e770ec0, Size=4
+[2018.06.29-18.07.49:137][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb570e7c18, Size=4
+[2018.06.29-18.07.49:137][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab7303550, Size=4
+[2018.06.29-18.07.49:137][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab2d1e400, Size=4
+[2018.06.29-18.07.49:137][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb4dc51a48, Size=4
+[2018.06.29-18.07.49:137][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb67550568, Size=4
+[2018.06.29-18.08.00:276][852]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb384c6e98, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.08.02:980][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb384c6e98, Size=4
+[2018.06.29-18.08.02:980][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb3ce2b1e0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_29:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.08.02:992][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb3ce2ab40, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.08.53:807][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb3ce2ab40, Size=4
+[2018.06.29-18.08.53:807][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb6d2d7ce0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_30:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.08.53:822][974]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb6d2d7658, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.09.14:038][166]BlueprintLog: New page: Compile AdrianaTwinBP
+[2018.06.29-18.09.14:060][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb6d2d7658, Size=4
+[2018.06.29-18.09.14:060][166]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb384c7568, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Engine/Transient.REINST_SKEL_AdrianaTwinBP_C_31:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.09.14:083][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb66a2d900, Size=120
+[2018.06.29-18.09.14:083][166]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb6e576100, Size=120, AdrianaTwinBP_C_22 Function /Engine/Transient.REINST_AdrianaTwinBP_C_32:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.09.14:098][166]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb44967c40, Size=136, Default__AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.09.14:225][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb62619600, Size=120
+[2018.06.29-18.09.14:225][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb384c7568, Size=4
+[2018.06.29-18.09.14:226][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb6d2d7ce0, Size=4
+[2018.06.29-18.09.14:226][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb3ce2b1e0, Size=4
+[2018.06.29-18.09.39:599][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb6e576100, Size=120
+[2018.06.29-18.09.40:003][672]LogSavePackage: Save=65.62ms
+[2018.06.29-18.09.40:003][672]LogSavePackage: Moving 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/AdrianaTestRoom_Auto19E3098FB4E9DD15B517829A4AEDD7DF2.tmp' to 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Autosaves/Game/AdrianaStuff/Maps/AdrianaTestRoom_Auto1.umap'
+[2018.06.29-18.09.40:006][672]LogSavePackage: Display: Finished SavePackage C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Autosaves/Game/AdrianaStuff/Maps/AdrianaTestRoom_Auto1.umap
+[2018.06.29-18.09.40:009][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AdrianaStuff/Maps/AdrianaTestRoom' took 0.435
+[2018.06.29-18.09.40:009][672]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.435
+[2018.06.29-18.09.40:012][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana] ([1] browsable assets)...
+[2018.06.29-18.09.40:026][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.Character_Custom_Test_Adriana]
+[2018.06.29-18.09.40:026][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana]
+[2018.06.29-18.09.40:165][672]LogSavePackage: Save=115.84ms
+[2018.06.29-18.09.40:165][672]LogSavePackage: Moving 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Character_Custom_Test_Adriana_AuA748C8A248FE394504CAF8A7DCE1C785.tmp' to 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana_Auto1.uasset'
+[2018.06.29-18.09.40:168][672]LogSavePackage: Display: Finished SavePackage C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana_Auto1.uasset
+[2018.06.29-18.09.40:169][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdrianaStuff/Animation/AdrianaTwinBP] ([1] browsable assets)...
+[2018.06.29-18.09.40:184][672]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/AdrianaStuff/Animation/AdrianaTwinBP.AdrianaTwinBP]
+[2018.06.29-18.09.40:184][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdrianaStuff/Animation/AdrianaTwinBP]
+[2018.06.29-18.09.40:318][672]LogSavePackage: Save=113.03ms
+[2018.06.29-18.09.40:318][672]LogSavePackage: Moving 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/AdrianaTwinBP_Auto1B7ACF66D4AECC389FD4C17BA0E2CDA36.tmp' to 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Autosaves/Game/AdrianaStuff/Animation/AdrianaTwinBP_Auto1.uasset'
+[2018.06.29-18.09.40:322][672]LogSavePackage: Display: Finished SavePackage C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Autosaves/Game/AdrianaStuff/Animation/AdrianaTwinBP_Auto1.uasset
+[2018.06.29-18.09.40:323][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TwinbladesAnimsetBase/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2018.06.29-18.09.40:323][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinbladesAnimsetBase/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2018.06.29-18.09.40:348][672]LogSavePackage: Save=4.56ms
+[2018.06.29-18.09.40:348][672]LogSavePackage: Moving 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/UE4_Mannequin_Skeleton_Auto1B523E46A4EB36AFAC3AD129DB2FEE0F1.tmp' to 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Autosaves/Game/TwinbladesAnimsetBase/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2018.06.29-18.09.40:350][672]LogSavePackage: Display: Finished SavePackage C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Autosaves/Game/TwinbladesAnimsetBase/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset
+[2018.06.29-18.09.40:350][672]LogFileHelpers: Auto-saving content packages took 0.339
+[2018.06.29-18.09.41:370][732]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab7303380, Size=4
+[2018.06.29-18.09.41:370][732]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb6d2d67d0, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Engine/Transient.REINST_SKEL_Character_Custom_Test_Adriana_C_75:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.41:377][732]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb6d2d56b0, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.SKEL_Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.49:552][187]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb6d2d56b0, Size=4
+[2018.06.29-18.09.49:552][187]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb52190198, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Engine/Transient.REINST_SKEL_Character_Custom_Test_Adriana_C_77:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.49:563][187]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb4e770d30, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.SKEL_Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.54:379][453]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb4e770d30, Size=4
+[2018.06.29-18.09.54:379][453]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab41f8180, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Engine/Transient.REINST_SKEL_Character_Custom_Test_Adriana_C_79:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.54:386][453]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab41fa0c0, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.SKEL_Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.54:438][453]BlueprintLog: New page: Compile Character_Custom_Test_Adriana
+[2018.06.29-18.09.54:472][453]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab41fa0c0, Size=4
+[2018.06.29-18.09.54:472][453]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eab41fa0c0, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Engine/Transient.REINST_SKEL_Character_Custom_Test_Adriana_C_81:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.54:515][453]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb13233280, Size=376
+[2018.06.29-18.09.54:516][453]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb58afdc00, Size=376, Character_Custom_Test_Adriana_C_87 Function /Engine/Transient.REINST_Character_Custom_Test_Adriana_C_85:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.54:528][453]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb3a3d0700, Size=376, Default__Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.54:940][453]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eab41fa0c0, Size=4
+[2018.06.29-18.09.58:608][653]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb3af2d670, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.SKEL_Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.59:765][705]BlueprintLog: New page: Compile Character_Custom_Test_Adriana
+[2018.06.29-18.09.59:797][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb3af2d670, Size=4
+[2018.06.29-18.09.59:797][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb4e7709c8, Size=4, Default__SKEL_Character_Custom_Test_Adriana_C Function /Engine/Transient.REINST_SKEL_Character_Custom_Test_Adriana_C_89:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.59:832][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb3a3d0700, Size=376
+[2018.06.29-18.09.59:832][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb559aac80, Size=376, Character_Custom_Test_Adriana_C_125 Function /Engine/Transient.REINST_Character_Custom_Test_Adriana_C_93:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.09.59:845][705]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb54c6c280, Size=376, Default__Character_Custom_Test_Adriana_C Function /Game/ThirdPersonBP/Blueprints/Character_Custom_Test_Adriana.Character_Custom_Test_Adriana_C:ExecuteUbergraph_Character_Custom_Test_Adriana
+[2018.06.29-18.10.00:262][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001eb4e7709c8, Size=4
+[2018.06.29-18.10.40:006][967]LogUObjectGlobals: Created PersistentFrame Addr=0x000001eb6d2d74b0, Size=4, Default__SKEL_AdrianaTwinBP_C Function /Game/AdrianaStuff/Animation/AdrianaTwinBP.SKEL_AdrianaTwinBP_C:ExecuteUbergraph_AdrianaTwinBP
+[2018.06.29-18.10.53:640][716]LogUObjectBase: Warning: Object is not registered
+[2018.06.29-18.10.54:384][716]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.743 s
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: === Handled ensure: ===
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: 
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: Stack: 
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A4E4B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A4BAAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A4BBECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A27F3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x0000000089C9B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x000000008903C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x0000000088EC77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x0000000088ECAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x0000000089006E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A5436057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A543BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A566C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A5490475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A5468360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000A545B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.29-18.10.54:384][716]LogOutputDevice: Error: [Callstack] 0x00000000D1CFE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x00000000D1CF1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x00000000D1D0052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x00000000D1CED679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x00000000F3826CC1 USER32.dll!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x00000000F3826693 USER32.dll!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x00000000D1D01666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x000000006EDB5475 UE4Editor.exe!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x000000006EDC6BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x000000006EDC6C4A UE4Editor.exe!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x000000006EDD4177 UE4Editor.exe!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x000000006EDD5B87 UE4Editor.exe!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x00000000F2F83034 KERNEL32.DLL!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: [Callstack] 0x00000000F5981431 ntdll.dll!UnknownFunction []
+[2018.06.29-18.10.54:385][716]LogOutputDevice: Error: 
+[2018.06.29-18.10.54:386][716]LogStats:                SubmitErrorReport -  0.000 s
