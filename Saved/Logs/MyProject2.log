@@ -338,3 +338,54 @@ LogInit: Object subsystem initialized
 [2018.08.13-03.08.14:923][  0]LogHMD: Failed to initialize OpenVR with code 110
 [2018.08.13-03.08.14:962][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
 [2018.08.13-03.08.14:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.13-03.08.16:828][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.13-03.08.17:194][  0]LogInit: XAudio2 using 'Speakers (Corsair Vengeance 1500)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.13-03.08.17:238][  0]LogInit: FAudioDevice initialized.
+[2018.08.13-03.08.17:369][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/A_A_m/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.13-03.08.17:402][  0]LogInit: Texture streaming: Enabled
+[2018.08.13-03.08.17:619][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.13-03.08.17:914][  0]LogInit: Transaction tracking system initialized
+[2018.08.13-03.08.18:343][  0]BlueprintLog: New page: Editor Load
+[2018.08.13-03.08.19:825][  0]LocalizationService: Localization service is disabled
+[2018.08.13-03.08.20:374][  0]LogLinker: Warning: Can't find file '/Game/DENT/CreateDestructibleMesh'
+[2018.08.13-03.08.20:389][  0]LogLinker: Warning: Can't find file '/Game/DENT/CreateDestructibleMesh'
+[2018.08.13-03.08.20:389][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/DENT/CreateDestructibleMesh.CreateDestructibleMesh_C'
+[2018.08.13-03.08.20:390][  0]LogLinker: Warning: Can't find file '/Game/DENT/AddDestructibleMeshToDENT'
+[2018.08.13-03.08.20:390][  0]LogLinker: Warning: Can't find file '/Game/DENT/AddDestructibleMeshToDENT'
+[2018.08.13-03.08.20:390][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/DENT/AddDestructibleMeshToDENT.AddDestructibleMeshToDENT_C'
+[2018.08.13-03.08.20:777][  0]LogConsoleResponse: Display: 
+[2018.08.13-03.08.23:348][  0]LogFileCache: Scanning file cache for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/' took 0.06s
+[2018.08.13-03.08.23:348][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.13-03.08.23:348][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.13-03.08.23:348][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.13-03.08.23:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.13-03.08.23:348][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.13-03.08.26:115][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2018.08.13-03.08.26:115][  0]LogWindows: Warning: URL: C:\Users\A_A_m\AppData\Local\GitHubDesktop\app-1.2.0\resources\app\git\cmd\git.exe version
+[2018.08.13-03.08.26:176][  0]Cmd: MAP LOAD FILE="C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.13-03.08.26:190][  0]LightingResults: New page: Lighting Build
+[2018.08.13-03.08.26:469][  0]MapCheck: New page: Map Check
+[2018.08.13-03.08.26:469][  0]LightingResults: New page: Lighting Build
+[2018.08.13-03.08.28:614][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015605413e00, Size=12, Default__Enemy_C Function /Game/ThirdPersonBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.08.13-03.08.28:634][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015605413e00, Size=12
+[2018.08.13-03.08.28:634][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015605413e00, Size=12, Default__Enemy_C Function /Engine/Transient.REINST_Enemy_C_5:ExecuteUbergraph_Enemy
+[2018.08.13-03.08.28:670][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015605413e70, Size=12, Default__Enemy_C Function /Game/ThirdPersonBP/Blueprints/Enemy.Enemy_C:ExecuteUbergraph_Enemy
+[2018.08.13-03.08.29:489][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.13-03.08.30:475][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.13-03.08.30:657][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015605413e00, Size=12
+[2018.08.13-03.08.30:687][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.13-03.08.30:782][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.237ms to complete.
+[2018.08.13-03.08.30:783][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.622
+[2018.08.13-03.08.33:264][  0]LogCollectionManager: Loaded 0 collections in 0.001426 seconds
+[2018.08.13-03.08.33:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Saved/Collections/' took 0.01s
+[2018.08.13-03.08.33:441][  0]LogFileCache: Scanning file cache for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/Developers/AAm/Collections/' took 0.01s
+[2018.08.13-03.08.33:441][  0]LogFileCache: Scanning file cache for directory 'C:/Users/A_A_m/OneDrive/Documents/GitHub/SheridanUnrealProjectSummer/Content/Collections/' took 0.01s
+[2018.08.13-03.08.33:441][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.13-03.08.33:458][  0]LogContentBrowser: Native class hierarchy populated in 0.0163 seconds. Added 2452 classes and 558 folders.
+[2018.08.13-03.08.33:625][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.13-03.08.34:692][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.13-03.08.34:808][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.08.13-03.08.35:773][  0]LogSlate: Took 0.019895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.13-03.08.35:809][  0]LogSlate: Took 0.026904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.13-03.08.35:950][  0]LogSlate: Took 0.022589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.13-03.08.36:755][  0]LogRenderer: Reallocating scene render targets to support 1112x580 Format 10 NumSamples 1 (Frame:1).
